@@ -1,0 +1,8 @@
+Repository(项目仓库) 
+star(收藏人数 )
+Fork(复制克隆项目)
+ 
+pull Request(请求)
+Watch(关注)
+
+Issue(事物卡片讨论)
